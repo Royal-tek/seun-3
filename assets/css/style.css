@@ -591,6 +591,18 @@ section {
   font-family: "Poppins", sans-serif;
 }
 
+.addedbtn{
+  padding: 15px 27px;
+  background-color: #ed502e;
+  color: #fff;
+}
+
+.addedbtn:hover{
+  background: #f1f1f1;
+  border: 1px solid #ed3c0d;
+  color: black;
+}
+
 .section-title h2::after {
   content: "";
   width: 120px;
