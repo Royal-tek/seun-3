@@ -1365,7 +1365,15 @@ section {
   font-size: 18px;
   color: #fff;
 }
-
+.investbtn{
+  border: 1px solid #ed502e;
+  padding: 10px 14px;
+  color: #ed3c0d;
+}
+.investbtn:hover{
+  background-color: #ed3c0d;
+  color: #fff;
+}
 .team .member .member-info-content span {
   /* font-style: italic; */
   display: block;
