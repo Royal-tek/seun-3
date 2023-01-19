@@ -1381,6 +1381,15 @@ section {
   color: #fff;
 }
 
+.strange h2{
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+.strange p{
+  font-size: 25px;
+}
+
 .team .member .social {
   position: absolute;
   left: -50px;
