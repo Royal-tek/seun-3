@@ -2067,6 +2067,13 @@ Events Section
   color: rgba(33, 37, 41, 0.4);
 }
 
+.insurbtn{
+  background-color: #ed3c0d !important;
+  color: #fff;
+  
+  /* padding: 5px; */
+}
+
 .chefs .chef-member .member-info p {
   /* font-style: italic; */
   font-size: 14px;
